@@ -13,31 +13,31 @@ const PRODUCTS = [
   {
     title: "Vaso Geométrico 15 cm",
     desc: "Boca 3 cm • Largura 8,5 cm",
-    price: 19,99,
+    price: 19.99,
     img: "./vaso-decorativo/foto1.jpg"
   },
   {
     title: "Porta-Vela Ondulado",
     desc: "Luz aconchegante",
-    price: 12,90,
+    price: 12.90,
     img: "./vela/vela.jpg"
   },
   {
     title: "Porta-Vela Premium",
     desc: "Design canelado",
-    price: 13,90,
+    price: 13.90,
     img: "./Porta-velas/ima.jpg"
   },
   {
     title: "Coração com Pernas",
     desc: "Presente criativo",
-    price: 12,90,
+    price: 12.90,
     img: "./Coracao-pernas/coracao.jpg"
   },
   {
     title: "Boneco ET Verde",
     desc: "Alien para setups",
-    price: 12,90,
+    price: 12.90,
     img: "./Et/IMG-20250918-WA0042.jpg"
   }
 ];
